@@ -1,0 +1,12 @@
+{
+  "name": "great-econometrics",
+  "version": "2.2.5",
+  "description": "A comprehensive econometrics skills set for empirical study, covering the complete workflow of empirical study.",
+  "author": {
+    "name": "William Zhou"
+  },
+  "homepage": "https://github.com/zhouziyue233/great-econometrics",
+  "repository": "https://github.com/zhouziyue233/great-econometrics",
+  "license": "Creative Commons",
+  "keywords": ["econometrics", "causal-inference", "ai-agent", "empirical-study", "workflow-automation"]
+}
