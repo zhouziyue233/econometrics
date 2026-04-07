@@ -4,7 +4,7 @@
 
 ![Version](https://img.shields.io/badge/version-2.2.5-blue)
 
-All Rights Reserved.
+© All Rights Reserved.
 
 ---
 
